@@ -1,0 +1,20 @@
+01-¿Cuántos discos de estudio grabó;la banda británica "The Beatles"?-13-En promedio otros participantes;respondieron 11.2 álbumes 
+02-¿Cuántos kilómetros en línea recta;separan la ciudad de Viedma de Buenos Aires?-799-Un participante respondió;900 km con confianza 4
+03-¿Cuántos centímetros de largo mide una cuerda;en una guitarra criolla del puente al clavijero?-65-En promedio otros participantes;respondieron 75.2 cm
+04-¿Cuántos metros de largo tiene una;cinta "scotch" en todo el carretel?-33-Un participante respondió que son;70 m con confianza 3
+05-¿Cuántas galletitas tiene un paquete;de "Cerealitas"?-26-En promedio otros participantes;respondieron 20.6 galletitas
+06-¿Cuántos kilos de arroz cocido se preparan;con medio kilo de arroz blanco crudo?-1.2-Un participante respondió;1.2 kilos con confianza 0
+07-¿Cuántos gramos pesa una;moneda de $1 Argentino?-10-En promedio otros participantes;respondieron 12.5 gramos
+08-¿Cuántos metros de alto mide;el Obelisco de Buenos Aires?-67.5-Un participante respondió;80 m con confianza 5
+09-¿A qué temperatura (ºC) funde el hierro?-1538-En promedio otros participantes;respondieron 1380 ºC
+10-En promedio, ¿cuántos litros de agua;gasta una persona adulta al bañarse?-200-Un participante respondió;500 litros con confianza 4
+11-¿A cuántos km/h viaja una bala disparada;de un revólver reglamentario 9mm?-1224-En promedio otros participantes;respondieron 1120 km/h
+12-En promedio, ¿cuántas toneladas;pesa una ballena azul adulta?-170-Un participante respondió;100 toneladas con confianza 1
+13-¿Cuántas películas realizó como director;Stanley Kubrick?-16-En promedio otros participantes;respondieron 19.3 películas
+14-¿En que año nació Isaac Newton?-1642-Un participante respondió;1647 con confianza 5
+15-¿Cuántas horas dura en promedio una;partida de ajedrez en un torneo internacional?-4-En promedio otros participantes;respondieron 3.2 horas
+16-¿Cuántas horas duran en promedio los;vuelos de cabotaje en la Argentina?-2.15-Un participante respondió;1.6 horas con confianza 4
+17-¿Cuántos huesos tiene el;esqueleto de un ser humano?-206-En promedio otros participantes;respondieron 208.3 huesos
+18-En promedio, ¿cuántos años vive una;tortuga de las Islas Galápagos?-175-Un participante respondió;200 años con confianza 3
+19-¿Cuántos países hay en el continente africano?-54-En promedio otros participantes;respondieron 47.8 países
+20-¿Cuántas palabras tiene el diccionario;de la Real Academia Española?-88431-Un participante respondió;100000 palabras con confianza 2

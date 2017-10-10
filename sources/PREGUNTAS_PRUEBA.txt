@@ -1,0 +1,4 @@
+01-¿Cuántas hojas A4 se producen;a partir de un pino Abeto?-12.500
+02-En promedio, ¿Cuántos kilos de basura;produce un habitante por año en la Argentina?-500
+03-¿Cuántas horas tardaría en llegar una paloma;mensajera de Bariloche a Buenos Aires?-8.98
+04-En promedio, ¿Cuantos días tarda una manzana en;pudrirse si se la deja a temperatura ambiente?-10
